@@ -1,0 +1,27 @@
+[
+  {
+    "kind": 1,
+    "language": "markdown",
+    "value": "### Our open issues"
+  },
+  {
+    "kind": 2,
+    "language": "github-issues",
+    "value": "repo:Chr1s-Weiss/dx-intro-tutorial is:open"
+  },
+  {
+    "kind": 1,
+    "language": "markdown",
+    "value": "### Issues that need Help"
+  },
+  {
+    "kind": 2,
+    "language": "github-issues",
+    "value": "repo:Chr1s-Weiss/dx-intro-tutorial is:open is:issue label:\"help wanted\""
+  },
+  {
+    "kind": 1,
+    "language": "markdown",
+    "value": ""
+  }
+]
